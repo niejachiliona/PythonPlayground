@@ -17,4 +17,4 @@ for range in range(1, 11):
     else:
         break
 print("Good job, " + name + "! You guessed my number in " + str(number_of_guesses) + " guesses!")
-
+print("The number I was thinking of was " + str(number_to_guess) + ".")
